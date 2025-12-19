@@ -1,4 +1,4 @@
-# SGF Form Management System
+# SGFood Internal Form Management System
 
 ## Project Description
 This project is a web-based form management system developed using Laravel.
